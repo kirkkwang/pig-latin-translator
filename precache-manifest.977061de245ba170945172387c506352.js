@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fffec355cf5f24330bb8874f20b8483b",
+    "revision": "d278b3e5784ef37e3a99c0a794d12be7",
     "url": "/pig-latin-translator/index.html"
   },
   {
-    "revision": "fda59f5287e1890d27f6",
+    "revision": "635221f19e434f0c5663",
     "url": "/pig-latin-translator/static/css/main.8bc29cef.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pig-latin-translator/static/js/2.67e2c9df.chunk.js"
   },
   {
-    "revision": "fda59f5287e1890d27f6",
-    "url": "/pig-latin-translator/static/js/main.dce296f7.chunk.js"
+    "revision": "635221f19e434f0c5663",
+    "url": "/pig-latin-translator/static/js/main.bf085cac.chunk.js"
   },
   {
     "revision": "5c47ed47dea2687e4d41",

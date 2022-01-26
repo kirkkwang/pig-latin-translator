@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pig-latin-translator/precache-manifest.e2b46f03662fca6282ecf6989396404c.js"
+  "/pig-latin-translator/precache-manifest.977061de245ba170945172387c506352.js"
 );
 
 self.addEventListener('message', (event) => {
