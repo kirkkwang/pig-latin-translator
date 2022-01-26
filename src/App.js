@@ -54,7 +54,10 @@ class App extends Component {
         // false means it is uppercase, true means it is lowercase
         return word[0] == word[0].toLowerCase()
           ? word
-          : word[0].toLowerCase() + word[1].toUpperCase() + word.substring(2);
+          : word[0].toLowerCase() +
+              word.substring(1, indexOfFirstVowel) +
+              word[indexOfFirstVowel].toUpperCase() +
+              word.substring(indexOfFirstVowel + 1);
       };
 
       const caseFixQu = (word) => {
